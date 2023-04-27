@@ -1,0 +1,21 @@
+.Presentation {
+  font-family: 'Raleway', sans-serif;
+  background:transparent;
+  color: aliceblue;
+  margin: 0;
+  padding-left: 15px;
+}
+
+.txt-h1 {
+  font-size: 4.0vw;
+}
+
+@media screen and (max-width: 600px) {
+  .txt-h1 {
+    font-size: 7vw; 
+  }}
+
+h1,h2 {
+  font-weight: 200;
+  margin: 0.4em 0;
+}
