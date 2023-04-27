@@ -25,7 +25,7 @@ jsx
 
 ```javascript
 <Typewriter
-  data-rotate='["Transform your space.", "Plant care tips.", "DIY projects!"]'
+  data-rotate='["Lorem ipsum dolor1.", "Lorem ipsum dolor2.", "Lorem ipsum dolor3"]'
   data-period="3000"
 />
 ```
