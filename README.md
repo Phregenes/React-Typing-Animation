@@ -1,7 +1,9 @@
 # React Typing Animation
 React Typing Animation is a React component that simulates real-time typing of text. It's perfect for adding a touch of dynamism to your pages, especially if you want to highlight titles or slogans.
 
-How to Use
+![txtgif](https://user-images.githubusercontent.com/35049850/234735068-7d49392b-b5d5-4781-9b2f-358c20f89003.gif)
+
+## How to Use
 To get started, simply import the Presentation component and add it to your JSX code:
 
 jsx
